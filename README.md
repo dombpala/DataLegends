@@ -1,4 +1,4 @@
-# Repositorio del grupo Data Legends - Datathon TAWS 2021.
+# Data Legends - Datathon TAWS 2021.
 
 ## Integrantes:
 
